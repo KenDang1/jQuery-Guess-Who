@@ -1,4 +1,9 @@
-img {
-    border: 5px black;
-    
+div {
+    display: flex;
+    justify-content: space-between;
+    justify-items: stretch;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
 }

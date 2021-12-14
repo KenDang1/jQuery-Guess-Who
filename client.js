@@ -22,4 +22,4 @@ function postPicture() {
             <button data-number=6 id="chris" class="style"> <img src="https://github.com/${people[6].githubUsername}.png?size=250" alt="Profile image of Chris"></button>
             <button data-number=7 id="ken" class="style"> <img src="https://github.com/${people[7].githubUsername}.png?size=250" alt="Profile image of Ken"></button>
     `);
-}
+};
